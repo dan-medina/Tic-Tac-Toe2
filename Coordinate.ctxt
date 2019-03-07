@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Coordinate
+comment1.params=row\ col
+comment1.target=Coordinate(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Coordinate\r\n
+comment2.params=
+comment2.target=int\ getRow()
+comment3.params=
+comment3.target=int\ getCol()
+numComments=4
